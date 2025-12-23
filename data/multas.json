@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "placa": "HOF3408",
+        "data": "10/10/2025",
+        "valor": 130.16,
+        "motivo": "Multa que vai ser excluida",
+        "codigo_infracao": "INF001",
+        "excluida": true
+    },
+    {
+        "id": 2,
+        "placa": "HOF3408",
+        "data": "10/10/2025",
+        "valor": 130.16,
+        "motivo": "Essa não será excluida",
+        "codigo_infracao": "INF002",
+        "excluida": false
+    },
+    {
+        "id": 3,
+        "placa": "HOF3408",
+        "data": "10/10/2025",
+        "valor": 130.16,
+        "motivo": "Excesso de velocidade",
+        "codigo_infracao": "INF004",
+        "excluida": false
+    },
+    {
+        "placa": "HOF3408",
+        "data": "10/10/2025",
+        "valor": 130.16,
+        "descricao": "Teste terminal funcionando"
+    }
+]
