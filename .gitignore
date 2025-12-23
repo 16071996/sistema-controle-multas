@@ -1,0 +1,17 @@
+
+3. Cole o conteúdo abaixo (evita subir arquivos desnecessários):
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.env
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
